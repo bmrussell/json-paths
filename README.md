@@ -6,7 +6,7 @@ Arrays are printed once as the key and for each array element with no index as
 
 ```json
 .key1
-.key1[].key2`
+.key1[].key2
 ```
 
 e.g.
