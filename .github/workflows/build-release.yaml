@@ -11,6 +11,7 @@ jobs:
     runs-on: windows-latest
 
     steps:
+      permissions: write-all
       - name: Checkout code
         uses: actions/checkout@v2
 
