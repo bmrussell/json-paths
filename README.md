@@ -4,7 +4,7 @@ Prints paths in JSON file. Pipe into sort and use diff to compare JSON structure
 
 Arrays are printed once as the key and for each array element with no index as
 
-```json
+```
 .key1
 .key1[].key2
 ```
